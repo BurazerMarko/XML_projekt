@@ -6,13 +6,13 @@ Nakon što se unesu korisnički podatci, provjerava se jednakost korisničkog im
 
 Valjani korisnički podatci:
 
-  korisničko ime: korisnik
+  korisničko ime: korisnik /
   lozinka: korisnik
   -
-  korisničko ime: korisnik2
+  korisničko ime: korisnik2 /
   lozinka: korisnik2
   -
-  korisničko ime: test
+  korisničko ime: test /
   lozinka: 1234
   -
 
